@@ -7,7 +7,6 @@ public class BeerSong {
     public static void main(String[] args) {
         int beerNum = 99;
         String word = "bottles";
-
         //  Rewrite BeerSong.java using a for loop
         //  rather than an while loop.
         for (; beerNum > 0; beerNum--) {

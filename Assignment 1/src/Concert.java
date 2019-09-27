@@ -5,8 +5,11 @@ import java.text.DecimalFormat;
  * Concert.java - CT874 Assignment 1 Part 1
  * @author Hongjia Liu 19234417
  */
+
 public class Concert {
+    // array to store numbers of tickets
     private int[] number;
+    // array to store price of tickets
     private double[] price;
 
     /**

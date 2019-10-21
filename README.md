@@ -1,10 +1,16 @@
 # CT874
 ## [Assignment 1](https://github.com/Hongjia-Liu/CT874/tree/master/Assignment%201)
-due date: 15:00 September 30th
+due date: 15:00 September 30th, 2019
 * Part 1: [Concert.java](https://github.com/Hongjia-Liu/CT874/blob/master/Assignment%201/src/Concert.java)
 * Part 2: [BeerSong.java](https://github.com/Hongjia-Liu/CT874/blob/master/Assignment%201/src/BeerSong.java)
 
 ## [Assignment 2](https://github.com/Hongjia-Liu/CT874/tree/master/Assignment%202)
-due date: 15:00 October 7th
+due date: 15:00 October 7th, 2019
 * Part 1: [Array.java](https://github.com/Hongjia-Liu/CT874/blob/master/Assignment%202/src/Array.java)
 * Part 2: [Main.java](https://github.com/Hongjia-Liu/CT874/blob/master/Assignment%202/src/Main.java)
+
+## [Assignment 3](https://github.com/Hongjia-Liu/CT874/tree/master/Assignment%203)
+due date: 15:00 October 14th, 2019
+* Part 1: [DigitsCounter.java](https://github.com/Hongjia-Liu/CT874/blob/master/Assignment%203/src/DigitsCounter.java)
+* Part 2-1: [Student.java](https://github.com/Hongjia-Liu/CT874/blob/master/Assignment%203/src/Student.java)
+* Part 2-2: [StudentTester.java](https://github.com/Hongjia-Liu/CT874/blob/master/Assignment%203/src/StudentTester.java)

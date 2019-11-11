@@ -33,3 +33,11 @@ due date: 15:00 November 4th, 2019
 * Part 1-2: [UnderGraduate.java](https://github.com/Hongjia-Liu/CT874/blob/master/Assignment%206/src/UnderGraduate.java)
 * Part 1-3: [PostGraduate.java](https://github.com/Hongjia-Liu/CT874/blob/master/Assignment%206/src/PostGraduate.java)
 * Part 1-4: [Client.java](https://github.com/Hongjia-Liu/CT874/blob/master/Assignment%206/src/Client.java)
+
+## [Assignment 7](https://github.com/Hongjia-Liu/CT874/tree/master/Assignment%207)
+due date: 15:00 November 11th, 2019
+* Part 1-1: [ShapesRelate.java](https://github.com/Hongjia-Liu/CT874/blob/master/Assignment%207/src/ShapesRelate.java)
+* Part 1-2: [Shapes.java](https://github.com/Hongjia-Liu/CT874/blob/master/Assignment%207/src/Shapes.java)
+* Part 1-3: [Circle.java](https://github.com/Hongjia-Liu/CT874/blob/master/Assignment%207/src/Circle.java)
+* Part 1-4: [Rectangle.java](https://github.com/Hongjia-Liu/CT874/blob/master/Assignment%207/src/Rectangle.java)
+* Part 2: [Driver.java](https://github.com/Hongjia-Liu/CT874/blob/master/Assignment%207/src/Driver.java)
